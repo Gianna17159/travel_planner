@@ -1,0 +1,7 @@
+origin,destination,type,price,duration
+Philadelphia,Los Angeles,plane,483,3
+Los Angeles,Philadelphia,plane,483,3
+Los Angeles,Portland,bus,20,15
+Portland,Madison,plane,312,2
+Madison,Portland,plane,312,2
+Madison,Philadelphia,train,80,6
